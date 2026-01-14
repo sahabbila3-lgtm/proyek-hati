@@ -1,4 +1,5 @@
 const container = document.getElementById('container');
+container.classList.add('love');
 
 // Fungsi untuk membuat pola hati
 function createHeart() {
